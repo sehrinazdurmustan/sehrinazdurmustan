@@ -1,7 +1,29 @@
-## Hi there 👋
+## Merhaba, Ben Şehrinaz DURMUŞ TAN 👋
+🔍 Gömülü Yazılım Test Mühendisi |💻 Test Otomasyonu Alanında Kendini Geliştiren Bir Öğrenci | 🚀 Öğrenmeye Tutkulu  
+
+
+## 🛠️ Teknik Becerilerim
+- **Diller:** Python, Java  
+- **Test Otomasyon Araçları:** Selenium, Cucumber, TestNG, JUnit, REST-Assured, Postman  
+- **Manuel Test:** Test senaryoları yazma, hata takip süreçleri  
+- **Metodolojiler:** Agile, Scrum
+
+
+## 🚀 Üzerinde Çalıştığım Alanlar
+- Test süreçlerinde otomasyonu artırmak
+- API testlerini optimize etmek (REST-Assured ve Postman ile)
+- Test senaryolarını profesyonel bir yaklaşımla oluşturmak (Cucumber BDD)
+
+ ## 🌐 Bana Ulaşın
+ **LinkedIn:** [Şehrinaz Durmuş Tan](https://linkedin.com/in/sehrinazdurmustan)
+ **Medium Blogum:** [[Test Mühendisliği Yazılarım](https://medium.com/@durmussehrinaz)](#)
+ 
 
 <!--
 **sehrinazdurmustan/sehrinazdurmustan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
