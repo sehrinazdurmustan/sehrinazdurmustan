@@ -15,7 +15,7 @@
 - Test senaryolarını profesyonel bir yaklaşımla oluşturmak (Cucumber BDD)
 
  ## 🌐 Bana Ulaşın
- **LinkedIn:** [Şehrinaz Durmuş Tan](https://linkedin.com/in/sehrinazdurmustan)
+ **LinkedIn:** [Şehrinaz Durmuş Tan](https://linkedin.com/in/durmussehrinaz)
  **Medium Blogum:** [[Test Mühendisliği Yazılarım](https://medium.com/@durmussehrinaz)](#)
  
 
