@@ -4,7 +4,7 @@
 
 ## 🛠️ Teknik Becerilerim
 - **Diller:** Python, Java  
-- **Test Otomasyon Araçları:** Selenium, Cucumber, TestNG, JUnit, REST-Assured, Postman  
+- **Test Otomasyon Araçları:** Selenium, Cucumber, TestNG, JUnit, REST-Assured, Postman, JMeter 
 - **Manuel Test:** Test senaryoları yazma, hata takip süreçleri  
 - **Metodolojiler:** Agile, Scrum
 
