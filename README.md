@@ -1,5 +1,5 @@
 ## Merhaba, Ben Şehrinaz DURMUŞ TAN 👋
-🔍 Gömülü Yazılım Test Mühendisi |💻 Test Otomasyonu Alanında Kendini Geliştiren Bir Öğrenci | 🚀 Öğrenmeye Tutkulu  
+🔍 Gömülü Yazılım Test Mühendisi |💻 Test Otomasyonu Alanında Kendini Geliştiren Tester | 🚀 Öğrenmeye Tutkulu  
 
 
 ## 🛠️ Teknik Becerilerim
