@@ -40,12 +40,14 @@
 
 ## 💡 İlgi Alanlarım
 
-- Yazılım testi & iş analizi  
-- Yapay zekâ destekli otomasyon (AI in QA)  
+- Yazılım testi (manual & automation)  
+- İş analizi ve süreç dokümantasyonu  
+- Yapay zekâ destekli test otomasyonu (AI in QA)  
 - NLP tabanlı analiz sistemleri  
-- Akademik araştırma ve teknik eğitimler  
-- Agile, Scrum & proje süreçleri
-
+- Ürün geliştirme süreçlerinde teknik katkı  
+- Makine öğrenmesi ve veri analizi temelli projeler  
+- Agile, Scrum & proje yönetimi  
+- AI, ML, test mühendisliği ve iş analizi gibi alanlardaki disiplinler arası roller
 ---
 
 ## 📬 İletişim
