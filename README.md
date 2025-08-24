@@ -53,7 +53,7 @@
 ## 📬 İletişim
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/durmussehrinaz/)  
-- 🔗 [Medium](https://medium.com/@durmussehrinaz))  
+- 🔗 [Medium](https://medium.com/@durmussehrinaz)
 - 📧 [E-posta](mailto:durmussehrinaz@gmail.com)
 
 ---
